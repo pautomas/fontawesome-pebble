@@ -1,0 +1,21 @@
+{
+  "name": "fontawesome-pebble",
+  "version": "1.0.0",
+  "authors": [
+    "Pau Tomàs <pau.tomas@gmail.com>"
+  ],
+  "description": "Font Awesome Viewer for Pebble Time",
+  "main": "app/src/app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pebblejs": "pebble/pebblejs"
+  }
+}

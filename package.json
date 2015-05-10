@@ -1,0 +1,18 @@
+{
+  "name": "fontawesome-pebble",
+  "version": "1.0.0",
+  "description": "Font Awesome Viewer for Pebble Time",
+  "main": "app/src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pau Tomàs <pau.tomas@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-shell": "^1.1.2",
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-rename": "^0.1.4"
+  }
+}
